@@ -1,4 +1,4 @@
-package com.example.mobilki_2;
+package com.example.kalkulator2;
 
 public enum Operations {
     plus,
