@@ -1,4 +1,4 @@
-package com.example.kalkulator2;
+package com.example.mobilki_2;
 
 import android.content.Intent;
 import android.os.Bundle;
