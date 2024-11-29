@@ -18,7 +18,7 @@ public class Calc {
                 result = num1 + num2;
                 break;
             case minus:
-                result = num1 + num2;
+                result = num1 - num2;
                 break;
             case multiply:
                 result = num1 * num2;
